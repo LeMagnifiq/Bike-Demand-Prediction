@@ -51,14 +51,3 @@ The dataset includes the hourly and daily count of rental bikes between the year
 ## Model Performance
 
 The best performing model was Gradient Boosting Regressor with a mean squared error of 5.80 on the test data after hyperparameter tuning.
-
----
-
-Remember, a good README file typically includes:
-
-- The project's name and a brief description
-- Installation instructions
-- A concise explanation of how to use the project
-- Information on how to contribute or get help with the project
-- Licensing information
-- Acknowledgments, if applicable
